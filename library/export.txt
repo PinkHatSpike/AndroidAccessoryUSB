@@ -1,0 +1,2 @@
+android=AndroidAccessoryUSB.jar
+#,usb.jar
